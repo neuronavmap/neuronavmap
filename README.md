@@ -1,6 +1,8 @@
 # NeuroNav
 
-### Installation & Set-up
+[https://neuronav-map.vercel.app/](https://neuronav-map.vercel.app/)
+
+### Local installation & Set-up
 
 1. Local installation of this web app requires Node.js, which can be accessed here: [https://nodejs.org/en/download](https://nodejs.org/en/download)
 - Select the following version: **v24.21.0 LTS**
@@ -8,7 +10,7 @@
 - Select the remaining options as follows: "using **nvm** with **npm**"
 - Run the provided commands **OR** download the pre-built installer
 
-2. Download this repository and navigate to it through your terminal or command line
+2. Download [this repository](https://github.com/neuronavmap/neuronavmap) and navigate to it through your terminal or command line
 
 3. Run `npm install`
 
